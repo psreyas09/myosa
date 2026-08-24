@@ -211,6 +211,19 @@ Entering Active Structural Auditing & Safety Interlock Loop...
 
 * **Project Title**: Sky-Mast – Autonomous Smart Crane & Structure Safety Auditor
 * **Competition Track**: IEEE MYOSA Technical Project Competition
-* **Author / Team Members**: [INSERT AUTHOR/TEAM INFORMATION]
 * **Repository**: [https://github.com/psreyas09/myosa](https://github.com/psreyas09/myosa)
 * **Date**: August 2026
+
+### Team Members:
+
+1. **Sreyas P**
+   * **Program**: B.Tech in Computer Science and Engineering (Batch 2024–2028)
+   * **Institution**: LBS College of Engineering, Povval, Muliyar P.O., Kasaragod, Kerala — 671542
+   * **Email**: psreyas09in@ieee.org
+   * **Phone**: +91 6282813639
+
+2. **Neeraj Rajeev**
+   * **Program**: B.Tech in Computer Science and Engineering (Batch 2024–2028)
+   * **Institution**: LBS College of Engineering, Povval, Muliyar P.O., Kasaragod, Kerala — 671542
+   * **Email**: neerajrajeevofficial@gmail.com
+   * **Phone**: +91 9633449485
