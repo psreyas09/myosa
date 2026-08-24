@@ -69,6 +69,13 @@ In rapid urban development zones and heavy industrial environments, construction
 
 ### **Videos**
 
+<p align="center">
+  <a href="https://github.com/psreyas09/myosa/raw/main/submission/sky-mast-demo.mp4">
+    <img src="assets/images/sky-mast/video-thumbnail.png" width="800"><br/>
+    <b>▶️ Click here to Watch / Download Demo Video (sky-mast-demo.mp4)</b>
+  </a>
+</p>
+
 <video controls width="100%">
   <source src="sky-mast-demo.mp4" type="video/mp4">
 </video>
