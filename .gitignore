@@ -16,7 +16,13 @@ Thumbs.db
 *.swp
 *~
 
-# Temporary logs & scratch files
+# Temporary logs, scratch files & videos
 *.log
 scratch/
 tmp/
+*.MOV
+*.mov
+
+# Internal Agent Files
+.agents/
+GEMINI.md
