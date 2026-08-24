@@ -1,0 +1,22 @@
+# Arduino / ESP32 Build & Cache Artifacts
+.cache/
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.d
+
+# Operating System & IDE Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary logs & scratch files
+*.log
+scratch/
+tmp/
