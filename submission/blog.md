@@ -1,7 +1,6 @@
 # Sky-Mast: Autonomous Smart Crane & Structure Safety Auditor
 
 ![Sky-Mast Project Banner](assets/images/project_hero.png)
-*(Placeholder: [INSERT PROJECT HERO IMAGE])*
 
 ---
 
@@ -40,7 +39,6 @@ $$v_{\text{wind}} = \sqrt{\frac{2 \cdot \Delta P}{\rho_{\text{air}}}}$$
 The entire system is constructed strictly within the native MYOSA hardware ecosystem using an I2C modular block architecture operating at **400 kHz Fast Mode**:
 
 ![Hardware Architecture Diagram](assets/images/architecture_diagram.png)
-*(Placeholder: [INSERT ARCHITECTURE DIAGRAM])*
 
 | Hardware Module | Sensor Chip | I2C Address / Pinout | Role in Sky-Mast |
 | :--- | :--- | :---: | :--- |
@@ -117,15 +115,18 @@ graph TD
 
 * **Page 1: 2D Level Bubble & Deflection Vector**:
   Renders a circular target reticle $(R = 19\,\text{px})$ with crosshairs, inner safe-zone ring, and a dynamic 2D floating bubble showing live structural inclination ($X = \text{Roll}, Y = \text{Pitch}$).
-  *(Placeholder: [INSERT SCREENSHOT - 2D LEVEL BUBBLE])*
+
+  ![Page 1: 2D Level Bubble Reticle](assets/images/screenshot_page1.png)
 
 * **Page 2: Bernoulli Wind Velocity Gauge & Environmental Data**:
   Displays real-time estimated wind speed ($\text{m/s}$ and $\text{km/h}$), dynamic pressure drop ($\Delta P$ in Pascals), barometric pressure ($\text{hPa}$), temperature ($^\circ\text{C}$), and altitude ($\text{m}$).
-  *(Placeholder: [INSERT SCREENSHOT - BERNOULLI WIND GAUGE])*
+
+  ![Page 2: Bernoulli Wind Velocity Gauge](assets/images/screenshot_page2.png)
 
 * **Page 3: Structural Frequency & Resonant Energy Auditor**:
   Displays pre-calibrated baseline frequency (`Res Locked`), real-time vibration frequency (`Live Peak`), resonant band energy meter (`Res E`), and safety audit status (`SAFE`, `RESONATING...`, or `RESONANCE TRIP`).
-  *(Placeholder: [INSERT SCREENSHOT - FFT STRUCTURAL RESONANCE])*
+
+  ![Page 3: FFT Structural Resonance Auditor](assets/images/screenshot_page3.png)
 
 ### 3. Autonomous Safety Interlock Action
 When any of the following hazards are triggered:
