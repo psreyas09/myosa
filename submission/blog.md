@@ -18,7 +18,7 @@ tags:
 
 ## Acknowledgements
 
-We express our sincere gratitude to **IEEE**, the **MYOSA (Make Your Own Sensors Applications)** platform development team, and the Department of Computer Science and Engineering at **LBS College of Engineering, Kasaragod, Kerala** for providing the modular hardware ecosystem and open-source infrastructure that made this project possible. Special thanks to our academic mentors for guidance in structural dynamics and edge computing principles.
+We express our sincere gratitude to **IEEE**, the **MYOSA (Make Your Own Sensors Applications)** platform development team for providing the modular hardware ecosystem and open-source infrastructure that made this project possible. Special thanks to our academic mentors for guidance in structural dynamics and edge computing principles.
 
 ---
 
