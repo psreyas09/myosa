@@ -209,7 +209,7 @@ Entering Active Structural Auditing & Safety Interlock Loop...
 
 ## 👥 Author & Team Information
 
-* **Team Name**: **AeroSync**
+* **Team Name**: **Infernal**
 * **Project Title**: Sky-Mast – Autonomous Smart Crane & Structure Safety Auditor
 * **Competition Track**: IEEE MYOSA Technical Project Competition
 * **Repository**: [https://github.com/psreyas09/myosa](https://github.com/psreyas09/myosa)
